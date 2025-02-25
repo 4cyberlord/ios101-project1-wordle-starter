@@ -10,19 +10,19 @@ Time spent: **1.67** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] App displays a keyboard on the screen
-- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [x] User can play a basic version of Wordle, with different goal words each time
+- ✅ App displays a keyboard on the screen
+- ✅ When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- ✅ User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface by adding a launchscreen and app icon
-- [x] Run the app on a device rather than in the simulator
+- ✅ Improve and customize the user interface by adding a launchscreen and app icon
+- ✅ Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
-- [x] Added a visually appealing launch screen with a 3x3 grid using Wordle's color scheme
-- [x] Implemented smooth animations when entering letters
+- ✅ Added a visually appealing launch screen with a 3x3 grid using Wordle's color scheme
+- ✅ Implemented smooth animations when entering letters
 
 ## Video Walkthrough
 
